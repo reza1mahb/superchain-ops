@@ -8,7 +8,7 @@ out/
 /broadcast/**/dry-run/
 
 # Docs
-docs/
+docs/m,
 
 # The specific deps and build artifacts will vary per task
 out/
